@@ -1,2 +1,21 @@
 # first task
+Salam :-"
 
+tamrine avale in :-?
+
+aval az hame ye branch besazin be esme khodetun o checkout konin tush :
+	~$ git branch yourBranchName
+	~$ git checkout yourBranchName
+
+tu foldere First be esme khodetun ye folder besazin, male man inshekli mishe masalan : /Practice/First/Alir3za97/
+harki code e khodesho tu foldere khodesh add mikone o ina(commit o ina am mikonin dg ...) har moqe E am khastin push konin injuri push mikonin :
+	~$ git push origin yourBranchName //esme branch i ke sakhtin
+
+felan in foldero besazin ye file hello.java benevisin ke esmetuno chap kone masalan :)) // injuri masalan ( ba esme khodetun albate :-") : 
+	~$ cd /Practice/First/Alir3za97
+	~$ touch hello.java (badesham file o va konin tush code bezanin ke chap kone esmetuno dg masan :-")
+	~$ git add hello.java
+	~$ git commit -m "add hello from Alireza97"
+	~$ git push origin yourBranchName
+
+moshkeliam bud begin :-"
